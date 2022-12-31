@@ -15,6 +15,9 @@ N/A
 ## Usage
 The code quiz can be played by visiting the url below.
 
+https://uklivewire.github.io/Code-Quiz/
+
+![Screenshot of Password Generator](./assets/images/codequizscreenshot.png.png?raw=true "Main Screenshot")
 
 ## Credits
 

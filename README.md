@@ -13,6 +13,8 @@ N/A
 N/A
 
 ## Usage
+The code quiz can be played by visiting the url below.
+
 
 ## Credits
 

@@ -1,3 +1,4 @@
+//quiz questions stored in an array
 var questions = [
     {
         question: "Commonly used datatypes do not include:",
